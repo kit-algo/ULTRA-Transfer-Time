@@ -1,5 +1,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+# **NOTE: This repository is outdated. Please refer to https://github.com/kit-algo/ULTRA.**
+---
+
 # Fast Multimodal Journey Planning for Three Criteria
 This C++ framework contains code for the ALENEX22 publication "Fast Multimodal Journey Planning for Three Criteria". It provides algorithms for efficient journey planning in multimodal networks with three optimization criteria: arrival time, number of public transit trips, and time spent using the transfer mode (e.g., walking, cycling). This framework was developed at [KIT](https://www.kit.edu) in the [group of Prof. Dorothea Wagner](https://i11www.iti.kit.edu/).
 
